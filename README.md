@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Luiz Roberto, a Computer Science student and a tech enthusiast.
 
 Currently im learning JavaScript, Typescript and the Angular framework.
 
-### Tech Stack 
+# Tech Stack 
 HTML
 CSS
 Javascript
@@ -13,7 +13,7 @@ Python
 C
 C++
 
-### How to reach me
+# How to reach me
 Gmail
 LinkedIn
 <!--
