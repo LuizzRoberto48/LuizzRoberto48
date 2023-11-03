@@ -1,4 +1,4 @@
-# Hi there 👋
+#👋 Hi there
 
 I'm Luiz Roberto, a Computer Science student and a tech enthusiast.
 
@@ -12,10 +12,11 @@ Currently im learning JavaScript, Typescript and the Angular framework.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# How to reach me
+#📲 How to reach me
 Gmail
-LinkedIn
+<a href="https://www.linkedin.com/in/luiz-roberto-de-a-f-junior-597975231/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <!--
 **LuizzRoberto48/LuizzRoberto48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
