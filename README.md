@@ -19,7 +19,7 @@ I'm Luiz Roberto, a Computer Science student and a tech enthusiast.
 
 # How to reach me
 - Email: `luizrobertofiniziojr@gmail.com`
-<a href="https://www.linkedin.com/in/luiz-roberto-de-a-f-junior-597975231/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/luiz-roberto-de-a-f-junior-597975231/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <!--
 **LuizzRoberto48/LuizzRoberto48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
