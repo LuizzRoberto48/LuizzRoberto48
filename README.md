@@ -2,7 +2,10 @@
 
 I'm Luiz Roberto, a Computer Science student and a tech enthusiast.
 
-Currently im learning JavaScript, Typescript and the Angular framework.
+### Currently studying:
+- JavaScript
+- Typescript
+- Angular
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
