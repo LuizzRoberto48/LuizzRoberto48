@@ -1,5 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm Luiz Roberto, a Computer Science student and a tech enthusiast.
+
+Currently im learning JavaScript, Typescript and the Angular framework.
+
+# Tech Stack 
+HTML
+CSS
+Javascript
+Java
+Python
+C
+C++
+
+# How to reach me
+Gmail
+LinkedIn
 <!--
 **LuizzRoberto48/LuizzRoberto48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
