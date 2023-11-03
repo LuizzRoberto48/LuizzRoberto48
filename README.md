@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Luiz Roberto, I study Computer Science at Universidade Veiga de Almeida
+I'm Luiz Roberto, a Computer Science student and an avid learner of new tecnologies. Currently I'm working on a project using JavaScript, TypeScript and the Angular framework.
 
 ### Currently studying:
 - JavaScript
@@ -19,4 +19,4 @@ I'm Luiz Roberto, I study Computer Science at Universidade Veiga de Almeida
 
 # How to reach me
 - Email: `luizrobertofiniziojr@gmail.com`
-- LinkedIn:  <a href="https://www.linkedin.com/in/luiz-roberto-de-a-f-junior-597975231/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/luiz-roberto-de-a-f-junior/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
