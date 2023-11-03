@@ -1,10 +1,10 @@
-#👋 Hi there 
+# 👋 Hi there
 
 I'm Luiz Roberto, a Computer Science student and a tech enthusiast.
 
 Currently im learning JavaScript, Typescript and the Angular framework.
 
-# Tech Stack 
+# Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,7 +14,7 @@ Currently im learning JavaScript, Typescript and the Angular framework.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#📲 How to reach me 
+# 📲 How to reach me
 Gmail
 <a href="https://www.linkedin.com/in/luiz-roberto-de-a-f-junior-597975231/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <!--
